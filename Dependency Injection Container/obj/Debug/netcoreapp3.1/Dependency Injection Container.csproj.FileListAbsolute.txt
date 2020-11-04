@@ -1,0 +1,9 @@
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection Container\bin\Debug\netcoreapp3.1\Dependency Injection Container.deps.json
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection Container\bin\Debug\netcoreapp3.1\Dependency Injection Container.dll
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection Container\bin\Debug\netcoreapp3.1\Dependency Injection Container.pdb
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection Container\obj\Debug\netcoreapp3.1\Dependency Injection Container.csprojAssemblyReference.cache
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection Container\obj\Debug\netcoreapp3.1\Dependency Injection Container.AssemblyInfoInputs.cache
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection Container\obj\Debug\netcoreapp3.1\Dependency Injection Container.AssemblyInfo.cs
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection Container\obj\Debug\netcoreapp3.1\Dependency Injection Container.csproj.CoreCompileInputs.cache
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection Container\obj\Debug\netcoreapp3.1\Dependency Injection Container.dll
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection Container\obj\Debug\netcoreapp3.1\Dependency Injection Container.pdb
