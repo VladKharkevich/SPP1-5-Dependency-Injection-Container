@@ -7,7 +7,7 @@ namespace ClassExamples
     public class Service: IService
     {
         public int elem;
-        public IRepository repository;
+        public IRepository repository { get; }
         public Service(IRepository repository)
         {
             elem = 6;

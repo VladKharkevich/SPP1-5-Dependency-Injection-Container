@@ -6,5 +6,6 @@ namespace ClassExamples
 {
     public interface IRepository
     {
+        int dzen();
     }
 }

@@ -4,8 +4,7 @@ using System.Text;
 
 namespace ClassExamples
 {
-    public interface IService
+    public interface IBar
     {
-        IRepository repository { get; }
     }
 }

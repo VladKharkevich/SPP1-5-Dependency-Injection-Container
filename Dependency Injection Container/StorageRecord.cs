@@ -7,11 +7,16 @@ namespace Dependency_Injection_Container
     public class StorageRecord
     {
         public Type dependency { get; }
+
         public Type implementation { get; }
-        public StorageRecord(Type dependency, Type implementation)
+        
+        public bool isSingleton { get;  }
+
+        public StorageRecord(Type dependency, Type implementation, bool isSingleton)
         {
             this.dependency = dependency;
             this.implementation = implementation;
+            this.isSingleton = isSingleton;
         }
 
         public Type this[int index]

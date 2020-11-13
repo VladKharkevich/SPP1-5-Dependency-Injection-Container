@@ -6,5 +6,6 @@ namespace ClassExamples
 {
     public abstract class AbstractServ
     {
+        public abstract int GetInt();
     }
 }

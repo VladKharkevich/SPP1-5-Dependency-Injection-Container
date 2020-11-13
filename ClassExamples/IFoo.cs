@@ -4,8 +4,8 @@ using System.Text;
 
 namespace ClassExamples
 {
-    public interface IService
+    public interface IFoo<TRepository> where TRepository : IRepository
     {
-        IRepository repository { get; }
+        TRepository GetRepository();
     }
 }

@@ -95,3 +95,8 @@ D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection C
 D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection ContainerTests\bin\Debug\netcoreapp3.1\Dependency Injection Container.dll
 D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection ContainerTests\bin\Debug\netcoreapp3.1\ClassExamples.pdb
 D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection ContainerTests\bin\Debug\netcoreapp3.1\Dependency Injection Container.pdb
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection ContainerTests\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection ContainerTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection ContainerTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection ContainerTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Лабы 5 сем\CПП\Dependency Injection Container\Dependency Injection ContainerTests\obj\Debug\netcoreapp3.1\Dependency Injection ContainerTests.csproj.CoreCompileInputs.cache

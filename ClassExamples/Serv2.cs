@@ -4,13 +4,11 @@ using System.Text;
 
 namespace ClassExamples
 {
-    
-    public class Serv : AbstractServ
+    public class Serv2 : AbstractServ
     {
-        public int elem;
-        public Serv()
+        public override int GetInt()
         {
-            elem = 5;
+            return 2;
         }
     }
 }

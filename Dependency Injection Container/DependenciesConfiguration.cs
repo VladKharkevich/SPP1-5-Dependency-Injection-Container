@@ -12,7 +12,7 @@ namespace Dependency_Injection_Container
         {
             storage = new List<StorageRecord>();
         }
-        public void Register<T1, T2>()
+        public void Register<T1, T2>(bool isSingleton=false)
             where T1 : class
             where T2 : class
         {
@@ -23,7 +23,19 @@ namespace Dependency_Injection_Container
                     isAdd = false;
             }
             if (isAdd)
-                    storage.Add(new StorageRecord(typeof(T1), typeof(T2)));
+                storage.Add(new StorageRecord(typeof(T1), typeof(T2), isSingleton));
+        }
+
+        public void Register(Type T1, Type T2, bool isSingleton = false)
+        {
+            bool isAdd = true;
+            foreach (StorageRecord record in storage)
+            {
+                if (record.dependency == T1 && record.implementation == T2)
+                    isAdd = false;
+            }
+            if (isAdd)
+                storage.Add(new StorageRecord(T1, T2, isSingleton));
         }
     }
 }
